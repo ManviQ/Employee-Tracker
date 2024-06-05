@@ -20,4 +20,7 @@ To track the Employee Performance in a Coffee Shop by tracking their actions usi
 - OpenCV (4.9.0 - Custom Wheel with CUDA acceleration)
 
 # Preview:
-[![Watch the Project Demo!](https://img.youtube.com/vi/)](https://www.youtube.com/embed/Unz3vQvvyyA))
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/Unz3vQvvyyA/0.jpg)](https://www.youtube.com/watch?v=Unz3vQvvyyA)
+
+# Preview 2:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Unz3vQvvyyA?si=VQxlzSh7Wncz62YT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
