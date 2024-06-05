@@ -19,3 +19,5 @@ To track the Employee Performance in a Coffee Shop by tracking their actions usi
 - PyTorch 2.3.0 (with CUDA Acceleration)
 - OpenCV (4.9.0 - Custom Wheel with CUDA acceleration)
 
+# Preview:
+[![Watch the Project Demo!](https://img.youtube.com/vi/)](https://www.youtube.com/embed/Unz3vQvvyyA))
