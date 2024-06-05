@@ -29,5 +29,14 @@ To track the Employee Performance in a Coffee Shop by tracking their actions usi
 In your anaconda prompt:
 > conda env create -f C:\{path-to-folder}\environment.yml
 
-**Step 3:** Once the environment is activated and all the packages have been installed
-> python run.py
+**Step 3:** Download the Model and video_final.mp4, place them in the same directory as the rest (input is configurable)    
+These files are too large to be hosted on GitHub, as such you may download them from Google Drive:  
+[yolov8x.pt](https://drive.google.com/file/d/[your_file_ID]/view?usp=sharing)  
+[video_final.mp4](https://drive.google.com/file/d/1NMe1PYvQRwKvTMMGMHDIK4cUheWa_rKT/view?usp=sharing)  
+
+**Step 4:** Once the environment is activated and all the packages have been installed
+> python PerformanceDetection.py
+
+**Step 5:** Output is produced in two ways:  
+1) Live Preview as the model processes the input
+2) final processed video will be available in the directory as output.mp4 (name is configurable)
