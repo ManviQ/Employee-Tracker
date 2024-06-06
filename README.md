@@ -24,7 +24,25 @@ To track the Employee Performance in a Coffee Shop by tracking their actions usi
 # Watch the Demo
 Note: The demo video was made before the recent GUI version commit.  
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/Unz3vQvvyyA/0.jpg)](https://www.youtube.com/watch?v=Unz3vQvvyyA)  
-**Front-End Preview**
+  
+**Front-End Preview**    
+### Screenshot 1
+<img src="screenshots/Configure_Page.jpg" alt="Configure Page" width="720"/>
+Screenshot 1: Configuration Page (Landing Page)  
+
+### Screenshot 2
+<p float="left">
+  <img src="screenshots/Execute_Page.jpg" alt="Execute Page" width="400"/>
+  <img src="screenshots/Preview_Page.jpg" alt="Preview Page" width="400"/>
+</p>
+Description of Screenshot 2 goes here.            Description of Screenshot 3 goes here.
+
+
+### Screenshot 3
+<p float="left">
+
+</p>
+
 
 
 # Want to run it on your system?
