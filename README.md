@@ -1,6 +1,6 @@
 # Employee-Tracker
 This is an ongoing Project on Employee Performance Tracker for a Coffee Shop, that is to be presented in an upcoming Hackathon.  
-Project Start Date: 29/05/2024
+Project Start Date: 07/06/2024
 
 # Goal
 To track the Employee Performance in a Coffee Shop by tracking their actions using a live camera tracking system.
