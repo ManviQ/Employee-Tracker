@@ -57,7 +57,7 @@ Since the environment file was made before the GUI commit, for working with GUI 
 
 **Step 3:** Download the Model and video_final.mp4, place them in the same directory as the rest (input is configurable)    
 These files are too large to be hosted on GitHub, as such you may download them from Google Drive:  
-[yolov8x.pt]([https://drive.google.com/file/d/[your_file_ID]/view?usp=sharing](https://drive.google.com/file/d/1poPRHELrva2kPEiNSCT0M46ylor09qkp/view?usp=drive_link))  
+[yolov8x.pt](https://drive.google.com/file/d/1poPRHELrva2kPEiNSCT0M46ylor09qkp/view?usp=drive_link)  
 [video_final.mp4](https://drive.google.com/file/d/1NMe1PYvQRwKvTMMGMHDIK4cUheWa_rKT/view?usp=sharing)  
 
 **Step 4:** Once the environment is activated and all the packages have been installed  
