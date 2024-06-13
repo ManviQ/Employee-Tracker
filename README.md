@@ -23,7 +23,7 @@ To track the Employee Performance in a Coffee Shop by tracking their actions usi
 
 # Watch the Demo
 Note: The demo video was made before the recent GUI version commit.  
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/Unz3vQvvyyA/0.jpg)](https://www.youtube.com/watch?v=Unz3vQvvyyA)  
+[![YouTube Video Thumbnail] 
   
 **Front-End Preview**    
 ### Screenshot 1
