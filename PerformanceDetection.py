@@ -8,8 +8,8 @@ from filterpy.kalman import KalmanFilter
 from collections import OrderedDict
 
 model = YOLO('yolov8x.pt') #v8x -> highest accuracy at the cost of performance -> RTX 3060 = 30ms avg. per frame
-#model.iou = 0.6  # Adjust IoU threshold (higher value merges more aggressively)
-#model.conf = 0.4  # Adjust confidence threshold (lower value keeps more detections)
+#model.iou = 0.6  # Lower = More Captures
+#model.conf = 0.4  # Higher = Stronger Detection
 
 cap = cv2.VideoCapture('video_final.mp4') #input video name
 with open("coco.txt", "r") as file:
